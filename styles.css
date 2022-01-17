@@ -1,0 +1,11 @@
+button {
+    font-size: 13px;
+    color: white;
+    background-color:black;
+}
+.logo {
+    color: black;
+    background-color: white;
+    font-size:13px;
+    border: solid black;
+}
